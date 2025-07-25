@@ -62,7 +62,7 @@
 
 // console.log(typeof null); // "object"  (2)
 
-// console.log(typeof alert); // "function"  (3)
+// console.log(typeof console.log); // "function"  (3)
 
 // =======================================Task
 
