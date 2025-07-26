@@ -21,9 +21,9 @@
 // let x = null == undefined;
 // console.log(x);
 
-// console.log( null > 0 );  // (1) false
-// console.log( null == 0 ); // (2) false
-// console.log( null >= 0 ); // (3) true
+// console.log( null > 0 );
+// console.log( null == 0 );
+// console.log( null >= 0 );
 
-
- 
+let x = null === +"\n0\n";
+console.log(x);
