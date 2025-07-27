@@ -4,7 +4,7 @@
 // console.log(check1);
 
 // let x = "2";
-// let y = 2;
+// let y = 3;
 // let check1 = x === y;
 // console.log(check1);
 
@@ -25,5 +25,5 @@
 // console.log( null == 0 );
 // console.log( null >= 0 );
 
-let x = null === +"\n0\n";
-console.log(x);
+// let x = null === +"\n0\n";
+// console.log(x);
