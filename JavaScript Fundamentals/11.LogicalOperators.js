@@ -50,23 +50,23 @@
 //Check the login
 
 
-let visitorIdentity = prompt("Who's there?", "");
+// let visitorIdentity = prompt("Who's there?", "");
 
-if (visitorIdentity === "Admin" || visitorIdentity === "admin") {
-  let password = prompt("Password?", "");
+// if (visitorIdentity === "Admin" || visitorIdentity === "admin") {
+//   let password = prompt("Password?", "");
 
-  if (password === "TheMaster") {
-    alert("Wellcome");
-  } else if (password === "" || password === null) {
-    alert("Canceled");
-  } else {
-    alert("Wrong Password");
-  }
-} else if (visitorIdentity ===  "" || visitorIdentity === null) {
-  alert("Canceled");
-} else {
-  alert("I don't know you");
-}
+//   if (password === "TheMaster") {
+//     alert("Wellcome");
+//   } else if (password === "" || password === null) {
+//     alert("Canceled");
+//   } else {
+//     alert("Wrong Password");
+//   }
+// } else if (visitorIdentity ===  "" || visitorIdentity === null) {
+//   alert("Canceled");
+// } else {
+//   alert("I don't know you");
+// }
 
 
 
